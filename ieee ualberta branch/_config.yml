@@ -33,6 +33,7 @@ instagram_username: jekyllrb
 # Build settings
 permalink: pretty
 markdown: kramdown
+rmeote_theme: forty/html5up
 
 gems:
   - jekyll-feed
